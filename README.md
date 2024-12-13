@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sekmet&show_icons=true&locale=en&layout=compact" alt="sekmet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sekmet&show_icons=true&locale=en" alt="sekmet" /></p>
+
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sekmet" alt="sekmet" /></p>-->
