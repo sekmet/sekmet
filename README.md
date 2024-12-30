@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 📍 Currently based in Brazil.
 - 🔭 I’m currently working on blockchain networks and LLM agents.
-- 🌱 I’m currently learning how to use LLM agents automate anything!
+- 🌱 I’m currently learning how to use LLM agents to automate anything possible!
 - 📫 How to reach me: sekmet@open4g.com
 <!--- 🌐 My website - [open4g.com](https://open4g.com)-->
 
