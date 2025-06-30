@@ -37,4 +37,20 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=sekmet&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in) 
 
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-06-30T18:25:51.393Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0xFf0573b826A3120df03Cb6F1eC0B5992a9948472"
+    },
+    {
+      "chain": "solana",
+      "address": "G8MzVhx5Zp79mE9ywYdc3azqrhRtM9JnTokeQTGQ4Vn"
+    }
+  ]
+}
+WALLET-LINKING-END -->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
