@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/XCodeCarlos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sekmet" height="27" width="36" /></a> &nbsp;&nbsp;
 <a href="https://www.leetcode.com/sekmet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sekmet" height="27" width="36" /></a>
 
-
+<!--
 ## 📊 GitHub Statistics:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sekmet&theme=dark&card_width=532&background=09131B&border=30363D&sideLabels=FB8C00&stroke=30363D)](https://git.io/streak-stats)
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sekmet&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in) 
+-->
 
 <!-- WALLET-LINKING-BEGIN
 {
