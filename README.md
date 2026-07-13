@@ -23,17 +23,26 @@ Here are some ideas to get you started:
 
 ## 💌 Social
 
-<a href="https://twitter.com/XCodeCarlos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sekmet" height="27" width="36" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/XCodeCarlos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sekmet" height="27" width="36" /></a> 
+<!--
+&nbsp;&nbsp;
 <a href="https://www.leetcode.com/sekmet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sekmet" height="27" width="36" /></a>
+-->
 
 ## 📊 GitHub Statistics:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sekmet&theme=dark&card_width=532&background=09131B&border=30363D&sideLabels=FB8C00&stroke=30363D)](https://git.io/streak-stats)
 
+[![Sekmet's GitHub stats](https://github-stats-extended.vercel.app/api?username=sekmet&rank_icon=percentile&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api?username=sekmet&rank_icon=percentile&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
+
+[![Language Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sekmet&langs_count=6&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=sekmet&langs_count=6&theme=vision-friendly-dark)
+
+
+<!--
 ![Sekmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sekmet&theme=codeSTACKr&show_icons=true&hide_border=false&border_color=30363d&ring_color=fb8c00&title_color=ffffff&text_color=ffffff&text_bold=flase&hide=contribs)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sekmet&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_color=30363d&title_color=ffffff&text_color=9f9f9f)
-
+-->
 <!--
 ---
 [![](https://visitcount.itsvg.in/api?id=sekmet&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in) 
