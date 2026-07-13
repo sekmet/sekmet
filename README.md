@@ -34,9 +34,10 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sekmet&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_color=30363d&title_color=ffffff&text_color=9f9f9f)
 
+<!--
 ---
 [![](https://visitcount.itsvg.in/api?id=sekmet&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in) 
-
+-->
 
 <!-- WALLET-LINKING-BEGIN
 {
