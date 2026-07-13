@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 <a href="https://www.leetcode.com/sekmet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sekmet" height="27" width="36" /></a>
 -->
+## 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bsd,aws,git,kubernetes,docker,nginx,cloudflare,workers,nextjs,vite,wordpress,bun,apollo,graphql,react,astro,tailwind,bash,js,ts,py,fastapi,zig,cpp,php,solidity,postgres,redis,mongodb,sqlite,ai,bots&perline=11)](https://skillicons.dev)
 
 ## 📊 GitHub Statistics:
 
