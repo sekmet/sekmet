@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 [![Sekmet's GitHub stats](https://github-stats-extended.vercel.app/api?username=sekmet&rank_icon=percentile&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api?username=sekmet&rank_icon=percentile&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
 
-[![Language Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sekmet&langs_count=6&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=sekmet&langs_count=6&theme=vision-friendly-dark)
+[![Language Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sekmet&langs_count=10&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=sekmet&langs_count=10&theme=vision-friendly-dark)
 
 
 <!--
